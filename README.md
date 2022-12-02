@@ -5,7 +5,7 @@ My first repository
 - Bleach
 - Chainsawman
 
-#Favorite Movie
+# Favorite Movie
 
 1. Thor love and thunder
 2. Black panther wakanda forever
